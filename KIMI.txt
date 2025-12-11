@@ -2,4 +2,9 @@
 Edited By: H-Anon "Sigma Sigma"
 =======
 Minun nimeni on Kimi.
+<<<<<<< HEAD
 >>>>>>> 75e98e16b34775f4d31cea33cf15f94490dab447
+=======
+
+Kimi on jonne
+>>>>>>> d39e0160f1d2c678a6504b663f9fc34e1a90ff30
